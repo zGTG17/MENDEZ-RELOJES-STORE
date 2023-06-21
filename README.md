@@ -11,5 +11,9 @@ nuestra paleta de colores es la siguiente:
 
 ![image](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/1c5b4618-137f-4d11-8b64-d4f911bf3a73)
 
+
+
+y nuestro logo es este
+
 ![image](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/cf663335-2db9-4171-80d1-a21bbc5fc8d3)
 
