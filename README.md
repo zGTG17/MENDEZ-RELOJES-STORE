@@ -6,5 +6,6 @@ Es un ecommerce que se dedica a la venta de relojes de la mayor calidad, esta a 
 
 tipografia principal: Newsreader
 
-![AdobeColor-RELOJES STORE](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/5175a437-5f50-43d6-84d2-d0c7c5b54547)
-![image](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/d93a566e-8ee4-4633-9b81-9ade34ba2bc6)
+![AdobeColor-RELOJES STORE](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/11fa56dd-d1b1-40da-bdc0-589e15854075)
+![image](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/cf663335-2db9-4171-80d1-a21bbc5fc8d3)
+
