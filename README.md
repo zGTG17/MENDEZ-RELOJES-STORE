@@ -1,6 +1,6 @@
 # MENDEZ-RELOJES-STORE
 
-hoy les voy a presentar a "relojes store", una marca de relojes que combina la elegancia y la precisión. Cada pieza es diseñada con la mejor calidad. Únete a nosotros para descubrir la belleza y el valor de los relojes. Relojes store: donde el tiempo cobra vida.
+hoy les voy a presentar a **Relojes Store**,  una marca de relojes que combina la elegancia y la precisión. Cada pieza es diseñada con la mejor calidad. Únete a nosotros para descubrir la belleza y el valor de los relojes. Relojes store: donde el tiempo cobra vida.
 
 Es un ecommerce que se dedica a la venta de relojes de la mayor calidad, esta a orientado a todo tipo de publico desde adolecentes hasta adultos ya que nuestras piezas son para todos los tipos de gustos y situaciones ya sea desde relojes deportivos a relojes elegantes
 
