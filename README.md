@@ -17,3 +17,5 @@ y nuestro logo es el siguiente
 
 ![image](https://github.com/zGTG17/MENDEZ-RELOJES-STORE/assets/137248891/cf663335-2db9-4171-80d1-a21bbc5fc8d3)
 
+aqui les dejo una previsualizacion de lo que son los frames de nuestra pagina
+[Uploading relojes store.pdf…]()
