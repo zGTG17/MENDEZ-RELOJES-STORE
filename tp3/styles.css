@@ -11,7 +11,11 @@
 
 .header{
     background-color: var(--primary);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
 }
+
 
 .banner{
     background-color: var(--secondary);
@@ -22,3 +26,4 @@
 .banner{
     background-color: var(--secondary);
 }
+
